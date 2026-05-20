@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechopolisTransit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eac3cedd3d0ccf4635dc9a3351a2a1b8820c95a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a51f9b608c10ff49af42ea7282e5b2b6168aca2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechopolisTransit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechopolisTransit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

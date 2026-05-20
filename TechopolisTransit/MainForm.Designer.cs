@@ -1,6 +1,6 @@
 ﻿namespace TechopolisTransit
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,10 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.SuspendLayout();
+            this.AutoScaleMode = AutoScaleMode.Font;
+            this.ClientSize = new Size(950, 680);
+            this.Text = "Techópolis - Sistema de Planificación de Transporte";
+            this.StartPosition = FormStartPosition.CenterScreen;
+            this.MinimumSize = new Size(850, 620);
+            this.ResumeLayout(false);
         }
 
         #endregion
