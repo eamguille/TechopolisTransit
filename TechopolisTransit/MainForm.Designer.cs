@@ -30,7 +30,7 @@
         {
             this.SuspendLayout();
             this.AutoScaleMode = AutoScaleMode.Font;
-            this.ClientSize = new Size(950, 680);
+            this.ClientSize = new Size(1000, 600);
             this.Text = "Techópolis - Sistema de Planificación de Transporte";
             this.StartPosition = FormStartPosition.CenterScreen;
             this.MinimumSize = new Size(850, 620);
